@@ -1,7 +1,7 @@
 # PicoyPlacaPredictor
 Repository for my Software Developer Internship application for Stack Builders.
 
-ABOUT THE PROJECT
+ABOUT THE PROJECT \n
 The project located in the rar file is a "Pico y Placa" predictor. This project lets a user know if his or her vehicle can circulate freely in the city of Quito, according to the regulation called "Pico y Placa". This regulation prohibits the circulation of certain vehicles according to the last digit of their license plate number. The schedule established for the restriction is from 7:00 to 9:30 and from 14:00 to 19:30, and the day for each car is: 
 Monday for cars whose license plate number ends in 1 or 2;
 Tuesday for cars whose license plate number ends in 3 or 4; 
